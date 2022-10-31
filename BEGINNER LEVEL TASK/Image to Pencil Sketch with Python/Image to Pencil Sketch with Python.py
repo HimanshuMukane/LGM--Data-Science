@@ -1,8 +1,8 @@
 '''
-Data Science Intern at Let's Grow More LGMVIP Nov 21
+Data Science Intern at Let's Grow More 
 Beginner Level Task
 Image to Pencil Sketch with Python
-Sachin Lohar
+Himanshu Mukane
 '''
 # Importing Libraries
 import cv2
